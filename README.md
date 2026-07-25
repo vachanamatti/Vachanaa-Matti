@@ -1,18 +1,32 @@
-### Hi, I'm Vachanaa 👋
+# Hi, I'm Vachana 👋
 
-🔄 Career switcher — moving from **ETL Development & Production Support** (4.5+ yrs) into **QA / Manual Testing**
+🔍 **Aspiring QA / Manual Testing Analyst** | Career switcher from ETL Development & Production Support
 
-🎓 B.E. in Information Science Engineering
+I bring 4.5+ years of experience in data validation, production support, and ETL pipelines, and I'm now channeling that background into software quality assurance — testing, defect tracking, and building a strong automation foundation.
 
-🧪 Currently learning: Selenium (Java & Python), Playwright, SQL-based test data validation, BDD, DevOps basics — via a structured QA/SDET training program
+---
 
-🛠️ **Skills**
-- Manual Testing: SDLC/STLC, Test Case Design, Regression/Smoke/Sanity Testing
-- Defect Tracking: Jira
-- Data Validation: Oracle SQL
-- Automation (in progress): Selenium, Playwright
+### 🧪 What I do
+- Manual testing: test case design, functional/regression/smoke/sanity testing
+- Defect tracking & reporting using **Jira**
+- Data validation using **Oracle SQL**
+- Learning test automation with **Selenium (Java & Python)**, **Playwright**, and **BDD**
+- Familiar with SDLC/STLC processes
 
-💼 Previously: Associate Consultant at Capgemini — ETL pipelines & production support
+### 🚀 Featured Project
+**E-commerce Bug Testing (academybugs.com)**
+A hands-on manual testing project simulating real-world QA work — exploratory testing, test case creation, and defect logging on a live e-commerce test site.
+*(Add the repo link here once uploaded)*
 
-📫 Reach me: [LinkedIn link: https://www.linkedin.com/in/vachanaa-matti/] | [Email : vachanapanju@gmail.com]
+### 🛠️ Tools & Tech
+`Jira` `Oracle SQL` `Selenium` `Playwright` `Postman` `Git` `SDLC/STLC`
 
+### 📈 Currently
+Completing an automation testing course covering Selenium (Java & Python), BDD, and DevOps fundamentals — building toward a well-rounded QA Engineer skill set.
+
+### 📫 Let's connect
+- LinkedIn: https://www.linkedin.com/in/vachanaa-matti/
+- Email:vachanapanju@gmail.com
+
+---
+*Career switcher | Detail-oriented | Bringing a data-validation mindset to quality engineering*
